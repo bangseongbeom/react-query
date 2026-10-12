@@ -33,7 +33,7 @@
     "react-native-safe-area-context": "3.3.2"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.9",
+    "@babel/core": "^7.29.6",
     "@callstack/eslint-config": "^10.1.0",
     "@expo/config": "^3.3.27",
     "@types/react-native": "~0.64.3",

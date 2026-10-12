@@ -65,7 +65,7 @@
     "types"
   ],
   "dependencies": {
-    "@babel/runtime": "^7.5.5",
+    "@babel/runtime": "^8.0.7",
     "broadcast-channel": "^3.4.1",
     "match-sorter": "^6.0.2"
   },
@@ -127,7 +127,7 @@
     "react-error-boundary": "^2.2.2",
     "replace": "^1.2.0",
     "rimraf": "^3.0.2",
-    "rollup": "^2.16.1",
+    "rollup": "^4.64.5",
     "rollup-plugin-babel": "^4.4.0",
     "rollup-plugin-commonjs": "^10.1.0",
     "rollup-plugin-jscc": "^1.0.0",
